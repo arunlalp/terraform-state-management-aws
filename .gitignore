@@ -1,0 +1,14 @@
+dynamodb-table/.terraform
+dynamodb-table/.terraform.lock.hcl
+dynamodb-table/terraform.tfstate
+dynamodb-table/terraform.tfstate.backup
+
+ec2-instance/.terraform
+ec2-instance/.terraform.lock.hcl
+ec2-instance/terraform.tfstate
+ec2-instance/terraform.tfstate.backup
+
+s3-bucket/.terraform
+s3-bucket/.terraform.lock.hcl
+s3-bucket/terraform.tfstate
+s3-bucket/terraform.tfstate.backup
